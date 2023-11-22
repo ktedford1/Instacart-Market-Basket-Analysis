@@ -1,4 +1,4 @@
-# Product Analysis
+# Instacart Market Basket Analysis
 
 ![Product analysis image](https://github.com/ktedford1/Product-Analysis/assets/57229346/b4e6976c-a46b-4215-8366-67844534d8e8)
 
